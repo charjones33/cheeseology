@@ -4,3 +4,8 @@
 body {
 	background-color: blue;
 }
+
+{
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+border-color: red;
+}
