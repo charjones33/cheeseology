@@ -1,7 +1,6 @@
 /*Use this for custom stuff*/
 
 
-.testImg {
-	background: url(http://placehold.it/3000x1000) 0 0 no-repeat;
-	height: 1000px;
+div class="jumbotron" {
+	background-image: url("http://placehold.it/350x150");
 }
