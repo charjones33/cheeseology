@@ -4,3 +4,7 @@
 div class="jumbotron" {
 	background-image: url("http://placehold.it/350x150");
 }
+
+body {
+    background-color: #yellow;
+}
