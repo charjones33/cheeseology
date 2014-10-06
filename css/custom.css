@@ -2,7 +2,7 @@
 
 
 div class="jumbotron" {
-	background-image: "mac.jpg";
+	background-image: url("mac.jpg");
 }
 
 body {
