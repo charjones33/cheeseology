@@ -11,5 +11,5 @@ div class="jumbotron" {
 
 body {
     background-color: #FFDB94;
-    background-image: url('mac.jpg');
+    background-image: url('../mac.jpg');
 }
