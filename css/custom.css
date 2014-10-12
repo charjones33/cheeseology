@@ -1,16 +1,15 @@
 /*Use this for custom stuff*/
 
 
-div class="jumbotron" {
-
+.jumbotron {
+	/*background-image: url('../mac.jpg');*/
 }
 
 .jumbotron {
-    background-image: url('../mac.jpg');
+    background-image: url('mac.jpg');
 }
 
 body {
     background-color: #FFDB94;
-   background-image: url('mac.jpg');
     background-image: url('../306.jpg');
 }
