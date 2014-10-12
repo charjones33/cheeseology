@@ -16,3 +16,7 @@ body {
 <img src="../mac.jpg" class="img-circle"> 
 
 }
+
+.navbar navbar-inverse{
+	background-color: orange;
+}
