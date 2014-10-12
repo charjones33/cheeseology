@@ -6,10 +6,10 @@
 }
 
 .jumbotron {
-    background-image: url('mac.jpg');
+    background-image: url('../mac.jpg');
 }
 
 body {
     background-color: #FFDB94;
-    background-image: url('../306.jpg');
+    background-image: url('');
 }
