@@ -30,3 +30,8 @@ margin-bottom: 1em;
 background-color: #efefef;
 }
 		
+.column1, .column2, .column3 {
+width: 31.3%;
+float: left;
+margin: 1%;
+}
