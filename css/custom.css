@@ -34,6 +34,7 @@ background-color: #FFCC80;
 height: 10em;
 margin-bottom: 1em;
 background-image: url('../1.png');
+background-repeat: no-repeat;
 }
 .column3 {
 height: 10em;
