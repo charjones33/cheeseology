@@ -26,6 +26,7 @@ body {
 .navbar-inverse .navbar-nav>li>a {
 	color: black;
 	font-family: "britannic bold";
+	font-size: 20px;
 }
 
 .column1 {
