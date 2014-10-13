@@ -27,7 +27,18 @@ body {
 .column1 {
 height: 10em;
 margin-bottom: 1em;
-background-color: #efefef;
+background-color: #FFCC99;
+}
+
+.column2 {
+height: 10em;
+margin-bottom: 1em;
+background-color: #FFCC99;
+}
+.column3 {
+height: 10em;
+margin-bottom: 1em;
+background-color: #FFCC99;
 }
 		
 .column1, .column2, .column3 {
