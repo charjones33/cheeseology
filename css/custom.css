@@ -23,3 +23,10 @@ body {
 .navbar-inverse .navbar-nav>li>a {
 	color: black;
 }
+
+.article column1 {
+height: 10em;
+margin-bottom: 1em;
+background-color: #efefef;
+}
+		
